@@ -1,0 +1,102 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: black;
+
+}
+
+.lista{
+    text-decoration: none;
+    margin-top: 220px;
+}
+
+.lista  a{
+    color:#e50914;
+    font-size: 30px;
+    margin-left: 100px;
+    text-decoration: none;  
+}
+.entrevista{
+    margin-left: 100px;
+    margin-top:20px;
+}
+.entrevista h3 {
+    text-align: justify;
+    color: white;
+    font-family:'Montserrat', sans-serif;
+}
+.entrevista p{
+    text-align: justify;
+    color: white;
+    font-family:'Montserrat', sans-serif;
+
+}
+
+.momentos p{
+    color: white;
+}
+.momentos a{
+    color: wheat;
+}
+
+.comidasfavoritas h2{
+    color: #e50914;
+    text-align: center;
+}
+.comidasfavoritas h3{
+    color: #e50914;
+    margin: 50px; 
+}
+.comidasfavoritas h4{
+    color:#e50914;
+    margin: 50px; 
+}
+.comidasfavoritas nav{
+    color: #e50914;
+    margin: 50px; 
+}
+.comidasfavoritas li{
+    margin: 50px; 
+}
+.duracao p{
+    color: #e50914;
+    margin-left: 20px;
+}
+
+.imagemcomidafav h4{
+    color: #e50914;
+    margin-left: 40px;
+}
+
+.imagemcomidafav img{
+    margin-left: 40px;
+}
+
+.tabelamemes td{
+    color: #e50914;
+    text-align: center;
+}
+
+.tabelamemes2 td{
+    color: #e50914;
+    text-align: center;
+}
+
+
+
+
+
+.botaopaginas input{
+    background: #e50914;
+    cursor: pointer;
+}
+footer{
+    text-align: center;
+
+}
+
+
